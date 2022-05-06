@@ -1,0 +1,7 @@
+# Dibuje la bandera de Aruba.
+### Ponga su código aquí ###
+Label('Aruba',200,50,fill='black',font='arial',size=30)
+Rect(50,100,300,200,fill=rgb(51,153,204))
+Star(100,150,30,4,fill='red',borde='white')
+Rect(50,240,300,10,fill='yellow')
+Rect(50,260,300,10,fill='yellow')
